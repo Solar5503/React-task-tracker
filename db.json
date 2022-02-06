@@ -15,7 +15,7 @@
     {
       "text": "Meeting with friends",
       "day": "16:45pm",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
